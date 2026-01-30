@@ -1,0 +1,9 @@
+RollNo,Name,Class,Marks
+101,Akshara,10,95
+102,Rahul,9,88
+103,Priya,10,92
+104,Arjun,8,85
+105,Sneha,9,90
+106,Karthik,10,78
+107,Meena,8,89
+108,Vikram,9,93

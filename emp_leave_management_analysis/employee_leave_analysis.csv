@@ -1,0 +1,6 @@
+Employee_ID,Employee_Name,Department,Leave_Type,Leave_Days,Month
+101,Ravi,HR,Sick,2,Jan
+102,Anita,IT,Casual,1,Jan
+103,Kumar,Finance,Sick,3,Feb
+104,Priya,IT,Earned,5,Mar
+105,Arjun,HR,Casual,2,Mar

@@ -1,0 +1,6 @@
+Student_ID,Name,Maths,Science,English,Total,Average,Grade,Result,Rank
+4,Priya,90,92,85,267,89.0,A,Pass,1.0
+2,Sneha,85,88,75,248,82.66666666666667,B,Pass,2.0
+1,Amit,78,72,80,230,76.66666666666667,B,Pass,3.0
+3,Rahul,62,60,65,187,62.333333333333336,C,Pass,4.0
+5,Karan,55,58,60,173,57.666666666666664,C,Pass,5.0
